@@ -12,7 +12,7 @@
     </parent>
 
     <!-- Артефакт микросервиса -->
-    <artifactId>messaging-service</artifactId>
+    <artifactId>messagingservice</artifactId>
 
     <!-- Зависимости -->
     <dependencies>

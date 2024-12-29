@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: messaging-service
+    name: messagingservice
 
 management:
   endpoints:
